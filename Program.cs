@@ -26,7 +26,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "Payment & Shipping API v1");
-        c.RoutePrefix = string.Empty; // Opens Swagger at root
+        c.RoutePrefix = string.Empty; 
     });
 }
 
