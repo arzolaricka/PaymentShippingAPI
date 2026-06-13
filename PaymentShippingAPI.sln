@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37203.1 d17.14
+VisualStudioVersion = 17.14.37203.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentShippingAPI", "PaymentShippingAPI.csproj", "{A74CC948-EB8D-4761-A3EC-76CA1FFE457F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentShippingDataService", "..\..\..\..\..\New folder\NewEcommerce\PaymentShippingDataService\PaymentShippingDataService.csproj", "{191A1DDD-C1E8-C198-E16B-BFCDEC428B82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentShippingDataService", "..\..\..\..\New folder\NewEcommerce\PaymentShippingDataService\PaymentShippingDataService.csproj", "{191A1DDD-C1E8-C198-E16B-BFCDEC428B82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentShippingModel", "..\..\..\..\..\New folder\NewEcommerce\PaymentShippingModel\PaymentShippingModel.csproj", "{F8BE9B2C-9564-2EC6-271F-43F001534328}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentShippingModel", "..\..\..\..\New folder\NewEcommerce\PaymentShippingModel\PaymentShippingModel.csproj", "{F8BE9B2C-9564-2EC6-271F-43F001534328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentShippingService", "..\..\..\..\..\New folder\NewEcommerce\PaymentShippingService\PaymentShippingService.csproj", "{23F7F2E2-094C-F488-7135-CE25214E344D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentShippingService", "..\..\..\..\New folder\NewEcommerce\PaymentShippingService\PaymentShippingService.csproj", "{23F7F2E2-094C-F488-7135-CE25214E344D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
